@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Overlap and Mouseover Effect</title>
+<style type="text/css">
+.image-container{
+position:relative;
+height:100%;
+width:100%;
+}
+p.image1
+{
+position:absolute;
+top:0;
+left:0;
+}
+p.image2
+{
+position:absolute;
+left:50px;
+}
+p.image3
+{
+position:absolute;
+left:100px;
+}
+</style>
+</head>
+<body>
+<div class="image-container">
+<script type="text/javascript">
+topLayer="img3";
+function mousemove(toTop)
+{
+document.getElementById(topLayer).style.zIndex="0";
+document.getElementById(toTop).style.zIndex="1";
+topLayer=toTop;
+}
+</script>
+<p class="image1"id="img1" onmouseOver="mousemove('img1');"><img src="a.jpg"style="width:500px;height:300px;"/></p>
+<p class="image2"id="img2" onmouseOver="mousemove('img2');"><img src="b.jpg"style="width:500px;height:300px;"/></p>
+<p class="image3"id="img3" onmouseOver="mousemove('img3');"><img src='c.jpg'style="width:500px;height:300px;"/></p>
+</div>
+</body>
+</html>

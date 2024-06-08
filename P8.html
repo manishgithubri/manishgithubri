@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Form Creation</title>
+<!--Student information-->
+<style>
+.form
+{
+background-color:#FFB6C1;
+width:30%;
+margin:20px;
+padding-left:10px;
+}
+</style>
+</head>
+<body>
+<div class="form">
+<form action="/action_page.php">
+<h1>Sign up Today</h1>
+<label>Name</label><br>
+<input type="text" name ="name" placeholder="name" required <br>
+<br><label>Email</label><br>
+<input type="mail" name="Email" placeholder="Email" pattern="[a-z 0-9._%+-]=@[a-z0-9.-]+\.[a-z](2,)$}"
+title="enter email id correctly"><br>
+<label>Password</label><br>
+<input type="password" name="Password" placeholder="password"
+pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"
+title ="must contain at east one number and one uppercase and lowercase letter,and at least 8 or more characters"<br>
+<br><label>Confirm password</label>
+<br><input type="password" name="confirm password" placeholder="password"><br>
+<input type="submit" value="register" style="background-color::hue;color:yellow;border:none;">
+</form>
+</div>
+</body>
+</html>
