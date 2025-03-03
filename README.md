@@ -15,7 +15,7 @@ I am a web developer
 ---
 [![](https://visitcount.itsvg.in/api?id=manishgithubri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.) -->
 
 <!---
 manishgithubri/manishgithubri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
