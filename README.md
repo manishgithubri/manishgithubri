@@ -8,10 +8,8 @@
 
 ---
 
-## 💫 About Me:
-- 🔭
+## 💫 About Me
 - 🌱 Learning MERN skills  
-- 📝   
 - 💬 Ask me about **Frontend Development / MERN Stack**  
 - 📫 Reach me at **manishmh903@gmail.com**  
 
@@ -19,16 +17,16 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skanda-prasaad&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manishgithubri&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
 ## 🌐 Socials
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/manish-mh-758464296" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" /></a>
-  
+  <a href="https://www.linkedin.com/in/manish-mh-758464296" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
+  </a>
 </p>
 
 ---
@@ -41,12 +39,8 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishgithubri&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishgithubri&theme=radical&hide_border=false&layout=compact)  
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=manishgithubri&theme=radical&hide_border=false)  
-
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manishgithubri&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishgithubri&theme=radical&hide_border=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishgithubri&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</p>
