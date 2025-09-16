@@ -36,4 +36,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishgithubri&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishgithubri&theme=radical&hide_border=false&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=manishgithubri&theme=radical&hide_border=false)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=manishgithubri)](https://git.io/streak-stats)
