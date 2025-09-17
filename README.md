@@ -27,7 +27,7 @@
 </p>
 <br>
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=manishgithubri&color=grey">
 </p>
 
 ## 🌐 Socials
