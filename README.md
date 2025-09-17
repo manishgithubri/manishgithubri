@@ -32,4 +32,4 @@
 ---
 
 ## 📊 GitHub Stats
-![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=rivaanranawat&show_icons=true&theme=react)
+![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=manishgithubri&show_icons=true&theme=react)
