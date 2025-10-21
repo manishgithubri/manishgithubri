@@ -11,6 +11,8 @@
 - 💬 Ask me about **Frontend Development / MERN Stack**  
 - 📫 Reach me at **manishmh903@gmail.com**  
 
+![Hacktoberfest Shark Badge](https://img.shields.io/badge/Hacktoberfest-Shark-blue)
+
 ---
 
 ## 🏆 GitHub Trophies
