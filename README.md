@@ -4,8 +4,6 @@
 # Hi 👋, I'm Manish
 ### 💻 A Passionate MERN Developer from India 🚀
 
----m
-
 ## 💫 About Me
 - 🌱 Learning MERN skills  
 - 💬 Ask me about **Frontend Development / MERN Stack**  
@@ -16,8 +14,8 @@
 ---
 
 ## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=manishgithubri&theme=radical&no-frame=true&no-bg=true" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishgithubri&show_icons=true&count_private=false&theme=tokyonight)
 
 
 ---<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
@@ -54,6 +52,10 @@
 
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishgithubri&layout=compact&theme=tokyonight)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishgithubri&show_icons=true&count_private=false&theme=tokyonight)
+
 
 
 
