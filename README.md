@@ -30,8 +30,7 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=manishgithubri&color=grey">
 </p>
-[![codecov](https://codecov.io/gh/your‑org/guardrails-ai/branch/main/graph/badge.svg)](...)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](...)
+
 ## 🌐 Socials
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/manish-mh-758464296)
