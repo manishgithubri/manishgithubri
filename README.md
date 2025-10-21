@@ -49,3 +49,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manishgithubri&theme=tokyonight&hide_border=true)
 
 
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishgithubri&layout=compact&theme=tokyonight)
+
+
+
