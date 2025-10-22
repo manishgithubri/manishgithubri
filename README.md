@@ -2,7 +2,8 @@
 
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=github)
 
-
+## 🏅 My Holopin Badges
+[![@manishgithubri's Holopin board](https://holopin.me/manishgithubri)](https://holopin.io/@manishgithubri)
 
 
 <!-- Banner GIF -->
