@@ -1,3 +1,10 @@
+[![An image of @manishgithubri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manishgithubri)](https://holopin.io/@manishgithubri)
+
+
+
+
+
+
 <!-- Banner GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="banner" width="100%" />
 
