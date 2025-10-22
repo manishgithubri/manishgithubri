@@ -1,6 +1,4 @@
-[![An image of @manishgithubri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manishgithubri)](https://holopin.io/@manishgithubri)
 
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=github)
 
 ## 🏅 My Holopin Badges
 [![@manishgithubri's Holopin board](https://holopin.me/manishgithubri)](https://holopin.io/@manishgithubri)
