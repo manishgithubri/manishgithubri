@@ -14,7 +14,7 @@
 
 ---
 Github trophies
-https://github-profile-trophy-next.vercel.app/?username=manishgithubri&theme=radical&no-frame=true&no-bg=true
+<img src="https://github-profile-trophy-next.vercel.app/?username=manishgithubri&theme=radical&no-frame=true&no-bg=true">
 
 
 
