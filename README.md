@@ -1,4 +1,4 @@
-## 🏅 My Holopin Badges
+
 [![@manishgithubri's Holopin board](https://holopin.me/manishgithubri)](https://holopin.io/@manishgithubri)
 
 <!-- Banner GIF -->
