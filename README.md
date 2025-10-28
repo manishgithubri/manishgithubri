@@ -13,8 +13,7 @@
 - 📫 Reach me at **manishmh903@gmail.com**  
 
 ---
-Github trophies
-<img src="https://github-profile-trophy-next.vercel.app/?username=manishgithubri&theme=radical&no-frame=true&no-bg=true">
+![GitHub Trophies](https://github-profile-trophy-next.vercel.app/?username=manishgithubri&theme=radical&no-frame=true&no-bg=true)
 
 
 
