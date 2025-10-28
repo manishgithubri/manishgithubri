@@ -1,6 +1,4 @@
 
-
-## 🏅 My Holopin Badges
 [![@manishgithubri's Holopin board](https://holopin.me/manishgithubri)](https://holopin.io/@manishgithubri)
 
 
@@ -20,7 +18,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=manishgithubri&theme=radical&no-frame=true&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=manishgithubri&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" />
 
 
 
