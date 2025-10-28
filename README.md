@@ -18,10 +18,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-<h2>🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manishgithubri&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=manishgithubri&theme=radical&no-frame=true&no-bg=true)
 
 
 
