@@ -12,8 +12,10 @@
 - 💬 Ask me about **Frontend Development / MERN Stack**  
 - 📫 Reach me at **manishmh903@gmail.com**  
 
----
-![GitHub Trophies](https://github-profile-trophy-next.vercel.app/?username=manishgithubri&theme=radical&no-frame=true&no-bg=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manishgithubri&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
 
 
 
