@@ -23,17 +23,11 @@
 
 </div>
 
-<p align="center"><sub>Manish · Live profile system generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<!-- <p align="center"><sub>Manish · Live profile system generated with <a href="https://www.gitskins.com/readme-generator"></a></sub></p> -->
 
 <table>
 
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=manishgithubri&theme=github-dark&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=manishgithubri&theme=github-dark&style=terminal&mode=dark" width="100%" alt="manishgithubri heatmap" />
-</picture>
-
-</div>
 
 
 </div>
