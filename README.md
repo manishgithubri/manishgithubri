@@ -3,6 +3,27 @@
 <div align="center">
 
 <h3><code>manishgithubri@github ~ $ whoami</code></h3>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=manishgithubri&theme=github-dark&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=manishgithubri&theme=github-dark&style=terminal&mode=dark" width="100%" alt="manishgithubri system-scan" />
+</picture>
+
+<p><a href="https://github.com/manishgithubri">GitHub</a></p>
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=manishgithubri&theme=github-dark&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=manishgithubri&theme=github-dark&style=terminal&mode=dark" width="100%" alt="manishgithubri heatmap" />
+</picture>
+
+</div>
+
+<p align="center"><sub>Manish · Live profile system generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
 <table>
 <tr>
