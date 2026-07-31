@@ -36,10 +36,4 @@
 
 ---
 
-If you'd like, I can:
 
-1) Create a branch + PR with further README tweaks (recommended if you want to review before merging).
-2) Implement the "Living Terminal" animated SVG setup (generate tools/, assets/, and a workflow) and update the README to embed the SVGs.
-3) Add or replace any badges/images with repo-stored assets.
-
-Tell me which of the above you'd like next and whether you want the change applied directly to the default branch or via a branch + PR.
